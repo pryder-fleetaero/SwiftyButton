@@ -11,7 +11,7 @@ let package = Package(
   targets: [
     .target(
       name: "SwiftyButton",
-      path: "SwiftyButton",
+      path: "SwiftyButton"
     )
   ]
 )
