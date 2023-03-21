@@ -6,7 +6,7 @@
 //  Copyright © 2015 TakeScoop. All rights reserved.
 //
 
-import Foundation
+import UIKit
 
 open class CustomPressableButton: PressableButton {
     
